@@ -30,8 +30,10 @@ This tool automatically places all generated configurations into a group named "
 (or hide these entries altogether using the tree view).
 
 ## Future Improvements
-I plan to add command line argument parsing so this can be added to a chron job (or similar tool) to automatically 
+* I plan to add command line argument parsing so this can be added to a chron job (or similar tool) to automatically 
 keep entries updated on a regular interval. As of right now, this must be done manually.
 
-I also plan to add options for preferred naming conventions. The assigned user -> serial -> ID setup is ideal for my school
+* I also plan to add options for preferred naming conventions. The assigned user -> serial -> ID setup is ideal for my school
 district's set-up, but I realize that is not necessarily the best for everyone as a default.
+
+* I plan to add support for setting default VNC usernames and passwords for one-click connections
